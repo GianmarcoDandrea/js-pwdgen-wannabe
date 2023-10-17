@@ -1,9 +1,9 @@
 // RACCOLTA DATI
 const user_name = prompt("Inserisci il tuo nome");
-console.log(user_name , typeof user_name );
+console.log(user_name, typeof user_name);
 
 const user_surname = prompt("Inserisci il tuo cognome");
-console.log(user_surname , typeof user_surname);
+console.log(user_surname, typeof user_surname);
 
 const fav_color = prompt("Inserisci il tuo colore preferito");
 console.log(fav_color, typeof fav_color);

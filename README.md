@@ -19,4 +19,3 @@ Chiedere all'utente alcune informazioni e poi trasformarle in una password
 ## Output 
 
 Stampa della password nel file html
-
